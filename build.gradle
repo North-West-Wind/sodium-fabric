@@ -62,6 +62,8 @@ jar {
 }
 
 def getVersionMetadata() {
+    // For Iris checking
+    return "build.15"
     def build_id = System.getenv("GITHUB_RUN_NUMBER")
 
     // CI builds only
