@@ -1,6 +1,8 @@
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
 # Sodium (for Fabric)
+
+#### Quick Note: This fork is a merge of the MESLewis/sodium-fabric fork that adds translucency sort. This is not made by me (NorthWestWind). I just change some parts to enhance compatibility.
 ![GitHub license](https://img.shields.io/github/license/CaffeineMC/sodium-fabric.svg)
 ![GitHub issues](https://img.shields.io/github/issues/CaffeineMC/sodium-fabric.svg)
 ![GitHub tag](https://img.shields.io/github/tag/CaffeineMC/sodium-fabric.svg)
